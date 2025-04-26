@@ -1,4 +1,4 @@
 import re
 def isDigit(ch):
-    return re.search(ch, "[0-9]") != None
-print(isDigit("4"))
+    return re.search(ch, "d") != None
+print(isDigit("8"))
