@@ -4,7 +4,7 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <hook NAME="MapStyle" background="#eeeeeeff" zoom="0.75131476">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/light_grey_template.mm" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_grey_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -85,7 +85,7 @@
 <node TEXT="00. Opening and Preface" FOLDED="true" POSITION="bottom_or_right" ID="ID_417308586" CREATED="1745665950995" MODIFIED="1745667208537" VGAP_QUANTITY="3 pt">
 <node TEXT="&quot;A regular expression is a pattern which specifies a set of strings of characters; it is said to match certain strings.&quot; -- Ken Thompson" ID="ID_788738485" CREATED="1745666092186" MODIFIED="1745667208534"/>
 </node>
-<node TEXT="01. What is a Regular Expression?" POSITION="bottom_or_right" ID="ID_1195413424" CREATED="1745665715644" MODIFIED="1745665814806">
+<node TEXT="01. What is a Regular Expression?" FOLDED="true" POSITION="bottom_or_right" ID="ID_1195413424" CREATED="1745665715644" MODIFIED="1745665814806">
 <node TEXT="01.01 Getting Started with Regexpal" ID="ID_1028283329" CREATED="1745665840803" MODIFIED="1745665848357">
 <node TEXT="https://www.regexpal.com/" ID="ID_1821505229" CREATED="1745666254600" MODIFIED="1745666267768" LINK="https://www.regexpal.com/"/>
 </node>
@@ -98,7 +98,18 @@
 <node TEXT="01.08 Quoting Literals" ID="ID_397345333" CREATED="1745665912938" MODIFIED="1745665921973"/>
 <node TEXT="01.09 A Sample of Applications" ID="ID_677137160" CREATED="1745665922123" MODIFIED="1745665929381"/>
 </node>
-<node TEXT="02. Simple Pattern Matching" POSITION="bottom_or_right" ID="ID_547784930" CREATED="1745665723738" MODIFIED="1745665816245"/>
+<node TEXT="02. Simple Pattern Matching" FOLDED="true" POSITION="bottom_or_right" ID="ID_547784930" CREATED="1745665723738" MODIFIED="1745665816245">
+<node TEXT="02.01 Matching String Literals" ID="ID_273312127" CREATED="1745669031800" MODIFIED="1745669045889"/>
+<node TEXT="02.02 Matching Digits" ID="ID_237695393" CREATED="1745669046045" MODIFIED="1745669052034"/>
+<node TEXT="02.03 Matching Non-Digits" ID="ID_1115248539" CREATED="1745669052182" MODIFIED="1745669058123"/>
+<node TEXT="02.04 Matching Word and Non-Word Characters" ID="ID_625556317" CREATED="1745669058287" MODIFIED="1745669067903"/>
+<node TEXT="02.05 Matching Whitespace" ID="ID_785262752" CREATED="1745669068085" MODIFIED="1745669078495"/>
+<node TEXT="02.06 Matching Any Character, Once Again" ID="ID_1553318083" CREATED="1745669078659" MODIFIED="1745669086768"/>
+<node TEXT="02.07 Matching Up the Text" ID="ID_496907127" CREATED="1745669087012" MODIFIED="1745669095855">
+<node TEXT="02.07.01 Using sed to Mark Up Text" POSITION="bottom_or_right" ID="ID_637428237" CREATED="1745669096238" MODIFIED="1745669120456"/>
+<node TEXT="02.07.02 Using Perl to Mark Up Text" POSITION="bottom_or_right" ID="ID_800590568" CREATED="1745669120623" MODIFIED="1745669136215"/>
+</node>
+</node>
 <node TEXT="03. Boundaries" POSITION="bottom_or_right" ID="ID_1250175084" CREATED="1745665730171" MODIFIED="1745665820497"/>
 <node TEXT="04. Alternation, Groups, and Backreferences" POSITION="bottom_or_right" ID="ID_1802989548" CREATED="1745665746123" MODIFIED="1745665823065"/>
 <node TEXT="05. Character Classes" POSITION="bottom_or_right" ID="ID_1390601300" CREATED="1745665759826" MODIFIED="1745665824787"/>
