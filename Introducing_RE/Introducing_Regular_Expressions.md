@@ -18,13 +18,40 @@
 
 ## 01.03 Match Digits with a Character Class
 
-### []: metacharacters
+### [0-9]: Match any digit you find in the range 0 through 9
+ 
+[]: metacharacters: has special meaning in regular expressions and isreserved.
+
 
 ### Character Class / Character Set
 
 ## 01.04 Using a Character Shorthand
 
+### Character Shorthand / Character Escape
+
+### \d: match all Arabic digits, like [0-9]
+
+### \w: word character (ASCII letter, digit or underscore)
+
+### \s: whitespace character (space, tab, newline, carriage return, vertical tab)
+
+### \D: one character that is not a digit as defined by \d
+
+### \W: one character that is not a word character as defined by \w
+
+### \S: one character that is not a whitespace character as defined by \s
+
 ## 01.05 Matching Any Character
+
+### .: Any character, including whitespace or numeric
+
+### ?: Zero or one of the preceding character
+
+### *: Zero or more of the preceding character
+
+### +: One or more of the preceding character
+
+### ^: Negation or complement
 
 ## 01.06 Capturing Groups and Back References
 
