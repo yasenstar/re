@@ -120,7 +120,7 @@
 <node TEXT="\W: one character that is not a word character as defined by \w" ID="ID_494400275" CREATED="1745733271832" MODIFIED="1745733291350"/>
 <node TEXT="\S: one character that is not a whitespace character as defined by \s" ID="ID_31120707" CREATED="1745733293213" MODIFIED="1745733319552"/>
 </node>
-<node TEXT="01.05 Matching Any Character" ID="ID_1264860506" CREATED="1745665881241" MODIFIED="1745665892216">
+<node TEXT="01.05 Matching Any Character" FOLDED="true" ID="ID_1264860506" CREATED="1745665881241" MODIFIED="1745665892216">
 <node TEXT=".: Any character, including whitespace or numeric" ID="ID_1992942657" CREATED="1745733784682" MODIFIED="1745733799622"/>
 <node TEXT="?: Zero or one of the preceding character" ID="ID_586627455" CREATED="1745733799777" MODIFIED="1745733811292"/>
 <node TEXT="*: Zero or more of the preceding character" ID="ID_129734059" CREATED="1745733820011" MODIFIED="1745733829960"/>
