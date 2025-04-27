@@ -9,3 +9,10 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 ## Content Structure
 
 ![mindmind-l1](img/Introducing_Regular_Expressions.png)
+
+## Course Videos
+
+The demo videos can be found in below variable platform, and will keep refreshing:
+
+- YouTube
+- Udemy

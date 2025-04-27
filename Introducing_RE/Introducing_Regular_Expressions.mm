@@ -3,7 +3,7 @@
 <node TEXT="Introducing RE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1745665608617">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#eeeeeeff" zoom="0.82644624">
+<hook NAME="MapStyle" background="#eeeeeeff" zoom="2.8531175">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_grey_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -86,7 +86,7 @@
 <node TEXT="&quot;A regular expression is a pattern which specifies a set of strings of characters; it is said to match certain strings.&quot; -- Ken Thompson" ID="ID_788738485" CREATED="1745666092186" MODIFIED="1745667208534"/>
 </node>
 <node TEXT="01. What is a Regular Expression?" POSITION="bottom_or_right" ID="ID_1195413424" CREATED="1745665715644" MODIFIED="1745665814806">
-<node TEXT="01.01 Getting Started with Regexpal" FOLDED="true" ID="ID_1028283329" CREATED="1745665840803" MODIFIED="1745665848357">
+<node TEXT="01.01 Getting Started with Regexpal" ID="ID_1028283329" CREATED="1745665840803" MODIFIED="1745665848357">
 <node TEXT="https://www.regexpal.com/" ID="ID_1821505229" CREATED="1745666254600" MODIFIED="1745666267768" LINK="https://www.regexpal.com/"/>
 </node>
 <node TEXT="01.02 Matching a North American Phone Number" FOLDED="true" ID="ID_62464958" CREATED="1745665848899" MODIFIED="1745665859757">
@@ -94,10 +94,14 @@
 <node TEXT="String Literal: a literal representation of a string" ID="ID_1874751558" CREATED="1745728056371" MODIFIED="1745728074660"/>
 </node>
 <node TEXT="01.03 Match Digits with a Character Class" ID="ID_525868072" CREATED="1745665859908" MODIFIED="1745665869469">
+<node TEXT="[0-9]: Match any digit you find in the range 0 through 9" ID="ID_1826693656" CREATED="1745730688494" MODIFIED="1745730706968"/>
 <node TEXT="[]: metacharacters" ID="ID_693035220" CREATED="1745729968750" MODIFIED="1745729976475"/>
 <node TEXT="Character Class / Character Set" ID="ID_1937543498" CREATED="1745729997071" MODIFIED="1745730006498"/>
 </node>
-<node TEXT="01.04 Using a Character Shorthand" ID="ID_1790413638" CREATED="1745665869633" MODIFIED="1745665881090"/>
+<node TEXT="01.04 Using a Character Shorthand" ID="ID_1790413638" CREATED="1745665869633" MODIFIED="1745665881090">
+<node TEXT="\d: match all Arabic digits, like [0-9]" ID="ID_1132218929" CREATED="1745730320334" MODIFIED="1745730337067"/>
+<node TEXT="Character Shorthand / Character Escape" ID="ID_1688581774" CREATED="1745730347662" MODIFIED="1745730367937"/>
+</node>
 <node TEXT="01.05 Matching Any Character" ID="ID_1264860506" CREATED="1745665881241" MODIFIED="1745665892216"/>
 <node TEXT="01.06 Capturing Groups and Back References" ID="ID_29814271" CREATED="1745665892362" MODIFIED="1745665900078"/>
 <node TEXT="01.07 Using Quantifiers" ID="ID_186660384" CREATED="1745665900225" MODIFIED="1745665912796"/>
