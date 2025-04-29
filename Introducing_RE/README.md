@@ -16,13 +16,6 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [RegExr.com](https://regexr.com/): from Grant Skinner
 - [Regex Workbench (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=robinbentley.vscode-regex-workbench): from Robin Bentley
 
-## Course Videos
-
-The demo videos can be found in below variable platform, and will keep refreshing:
-
-- YouTube
-- Udemy
-
 ## Jump to the Source Code per Sub-Chapter
 
 | ch01 | ch02 | ch03 | ch04 | ch05 | ch06 | ch07 | ch08 | ch09 | ch10 |
