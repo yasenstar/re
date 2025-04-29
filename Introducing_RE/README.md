@@ -32,6 +32,7 @@ The demo videos can be found in below variable platform, and will keep refreshin
 | [01-05](ch01/01-05.md) | | | | | | | | | |
 | [01-06](ch01/01-06.md) | | | | | | | | | |
 | [01-07](ch01/01-07.md) | | | | | | | | | |
+| [01-08](ch01/01-08.md) | | | | | | | | | |
 
 ---
 
