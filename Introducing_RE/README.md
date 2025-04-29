@@ -10,9 +10,11 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 
 ![mindmind-l1](img/Introducing_Regular_Expressions.png)
 
-## Related Tools and Resources
+## Related Tools and Resources for Regular Expression
 
-- [RegEx Pal](https://www.regexpal.com/): online Regular Expression editer and validator
+- [RegEx Pal](https://www.regexpal.com/): online Regular Expression editer and validator, from Steven Levithan (Now from Dan's tools)
+- [RegExr.com](https://regexr.com/): from Grant Skinner
+- [Regex Workbench (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=robinbentley.vscode-regex-workbench): from Robin Bentley
 
 ## Course Videos
 
@@ -25,7 +27,7 @@ The demo videos can be found in below variable platform, and will keep refreshin
 
 | ch01 | ch02 | ch03 | ch04 | ch05 | ch06 | ch07 | ch08 | ch09 | ch10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [01-01](ch01/01-01.md) | | | | | | | | | |
+| [01-01](ch01/01-01.md) |  | | | | | | | | |
 | [01-02](ch01/01-02.md) | | | | | | | | | |
 | [01-03](ch01/01-03.md) | | | | | | | | | |
 | [01-04](ch01/01-04.md) | | | | | | | | | |
@@ -33,6 +35,12 @@ The demo videos can be found in below variable platform, and will keep refreshin
 | [01-06](ch01/01-06.md) | | | | | | | | | |
 | [01-07](ch01/01-07.md) | | | | | | | | | |
 | [01-08](ch01/01-08.md) | | | | | | | | | |
+
+## Reference Files
+
+- Chapter 2:
+    - [rime-intro.txt](ch02/rime-intro.txt)
+    - [Character_Shorthands.md](ch02/Character_Shorthands.md)
 
 ---
 

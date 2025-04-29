@@ -3,7 +3,7 @@
 <node TEXT="Introducing RE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1745665608617">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#eeeeeeff" zoom="0.9090909">
+<hook NAME="MapStyle" background="#eeeeeeff" zoom="1.1">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_grey_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -85,7 +85,7 @@
 <node TEXT="00. Opening and Preface" FOLDED="true" POSITION="bottom_or_right" ID="ID_417308586" CREATED="1745665950995" MODIFIED="1745667208537" VGAP_QUANTITY="3 pt">
 <node TEXT="&quot;A regular expression is a pattern which specifies a set of strings of characters; it is said to match certain strings.&quot; -- Ken Thompson" ID="ID_788738485" CREATED="1745666092186" MODIFIED="1745667208534"/>
 </node>
-<node TEXT="01. What is a Regular Expression?" POSITION="bottom_or_right" ID="ID_1195413424" CREATED="1745665715644" MODIFIED="1745665814806">
+<node TEXT="01. What is a Regular Expression?" FOLDED="true" POSITION="bottom_or_right" ID="ID_1195413424" CREATED="1745665715644" MODIFIED="1745665814806">
 <node TEXT="01.01 Getting Started with Regexpal" FOLDED="true" ID="ID_1028283329" CREATED="1745665840803" MODIFIED="1745665848357">
 <node TEXT="https://www.regexpal.com/" ID="ID_1821505229" CREATED="1745666254600" MODIFIED="1745666267768" LINK="https://www.regexpal.com/"/>
 </node>
@@ -130,16 +130,27 @@
 <node TEXT="01.06 Capturing Groups and Back References" ID="ID_29814271" CREATED="1745665892362" MODIFIED="1745665900078"/>
 <node TEXT="01.07 Using Quantifiers" ID="ID_186660384" CREATED="1745665900225" MODIFIED="1745665912796"/>
 <node TEXT="01.08 Quoting Literals" ID="ID_397345333" CREATED="1745665912938" MODIFIED="1745665921973"/>
-<node TEXT="01.09 A Sample of Applications" ID="ID_677137160" CREATED="1745665922123" MODIFIED="1745665929381"/>
+<node TEXT="01.09 A Sample of Applications" FOLDED="true" ID="ID_677137160" CREATED="1745665922123" MODIFIED="1745665929381">
+<node TEXT="TextMate (Mac Only)" ID="ID_43192573" CREATED="1745897296533" MODIFIED="1745897305683"/>
+<node TEXT="Notepad++" ID="ID_811882606" CREATED="1745897305842" MODIFIED="1745897309800"/>
+<node TEXT="Oxygen XML Editor" ID="ID_712460091" CREATED="1745897309987" MODIFIED="1745897360464" LINK="https://www.oxygenxml.com/"/>
+<node TEXT="regexr.com" ID="ID_1753046734" CREATED="1745897450114" MODIFIED="1745897462670" LINK="https://regexr.com/">
+<node TEXT="VS Code Extension" ID="ID_869113985" CREATED="1745897478003" MODIFIED="1745897485375"/>
 </node>
-<node TEXT="02. Simple Pattern Matching" FOLDED="true" POSITION="bottom_or_right" ID="ID_547784930" CREATED="1745665723738" MODIFIED="1745665816245">
+<node TEXT="Regex Match (VS Code Extension)" ID="ID_1994599230" CREATED="1745897524754" MODIFIED="1745897533862">
+<node TEXT="create file with .rgx extension.&#xa;&#xa;RE, e.g. /[0-9]+a+/gm&#xa;---&#xa;test string&#xa;---" ID="ID_272774620" CREATED="1745897534513" MODIFIED="1745897602406"/>
+</node>
+<node TEXT="Regex Workbench (VS Code Extension)" ID="ID_235513986" CREATED="1745897621401" MODIFIED="1745897635007"/>
+</node>
+</node>
+<node TEXT="02. Simple Pattern Matching" POSITION="bottom_or_right" ID="ID_547784930" CREATED="1745665723738" MODIFIED="1745665816245">
 <node TEXT="02.01 Matching String Literals" ID="ID_273312127" CREATED="1745669031800" MODIFIED="1745669045889"/>
 <node TEXT="02.02 Matching Digits" ID="ID_237695393" CREATED="1745669046045" MODIFIED="1745669052034"/>
 <node TEXT="02.03 Matching Non-Digits" ID="ID_1115248539" CREATED="1745669052182" MODIFIED="1745669058123"/>
 <node TEXT="02.04 Matching Word and Non-Word Characters" ID="ID_625556317" CREATED="1745669058287" MODIFIED="1745669067903"/>
 <node TEXT="02.05 Matching Whitespace" ID="ID_785262752" CREATED="1745669068085" MODIFIED="1745669078495"/>
 <node TEXT="02.06 Matching Any Character, Once Again" ID="ID_1553318083" CREATED="1745669078659" MODIFIED="1745669086768"/>
-<node TEXT="02.07 Matching Up the Text" ID="ID_496907127" CREATED="1745669087012" MODIFIED="1745669095855">
+<node TEXT="02.07 Matching Up the Text" FOLDED="true" ID="ID_496907127" CREATED="1745669087012" MODIFIED="1745669095855">
 <node TEXT="02.07.01 Using sed to Mark Up Text" POSITION="bottom_or_right" ID="ID_637428237" CREATED="1745669096238" MODIFIED="1745669120456"/>
 <node TEXT="02.07.02 Using Perl to Mark Up Text" POSITION="bottom_or_right" ID="ID_800590568" CREATED="1745669120623" MODIFIED="1745669136215"/>
 </node>
