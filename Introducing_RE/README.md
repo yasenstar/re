@@ -37,7 +37,7 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 
 ## My Hard-Copy Book
 
-Arrived at Apr 30, 2025 ;-)
+Arrived at Apr 30, 2025 :satisfied:
 
 | ![book-front](img/my-introRE-book-front-small.jpg) | ![book-back](img/my-introRE-book-back-small.jpg) |
 | --- | --- |
