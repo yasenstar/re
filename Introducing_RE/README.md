@@ -35,6 +35,13 @@ Author: Michael Fitzgerald (Published by O'REILLY)
     - [rime-intro.txt](ch02/rime-intro.txt)
     - [Character_Shorthands.md](ch02/Character_Shorthands.md)
 
+## My Hard-Copy Book
+
+Arrived at Apr 30, 2025 ;-)
+
+| ![book-front](img/my-introRE-book-front-small.jpg) | ![book-back](img/my-introRE-book-back-small.jpg) |
+| --- | --- |
+
 ---
 
 Welcome to hear your opinion and comments, post in Discussion Board please.
