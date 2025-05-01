@@ -1,4 +1,10 @@
-# Character Shorthands in Regular Expression
+# Chapter 2: Simple Pattern Matching
+
+## Source Text
+
+[rime-intro.txt](ch02/rime-intro.txt)
+
+## Character Shorthands in Regular Expression
 
 | Character Shorthand | Regular-Expression Meaning |
 | --- | --- |

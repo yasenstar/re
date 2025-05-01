@@ -29,11 +29,18 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 | [01-07](ch01/01-07.md) | | | | | | | | | |
 | [01-08](ch01/01-08.md) | | | | | | | | | |
 
-## Reference Files
+## Jump to Chapter's README
 
-- Chapter 2:
-    - [rime-intro.txt](ch02/rime-intro.txt)
-    - [Character_Shorthands.md](ch02/Character_Shorthands.md)
+- [Chapter 01: What Is a Regular Expression?](ch01/README.md)
+- [Chapter 02: Simple Pattern Matching](ch02/README.md)
+- [Chapter 03: Boundaries](ch03/README.md)
+- [Chapter 04: Alternation, Groups, and Backreferences](ch04/README.md)
+- [Chapter 05: Character Classes](ch05/README.md)
+- [Chapter 06: Matching Unicode and Other Characters](ch06/README.md)
+- [Chapter 07: Quantifiers](ch07/README.md)
+- [Chapter 08: Lookarounds](ch08/README.md)
+- [Chapter 09: Marking Up a Document with HTML](ch09/README.md)
+- [Chapter 10: The end of the Beginning](ch10/README.md)
 
 ## My Hard-Copy Book
 
