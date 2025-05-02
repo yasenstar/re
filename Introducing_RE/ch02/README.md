@@ -27,7 +27,7 @@
 | \v | Match a vertical tab character |
 | \V | Match a character that is not a vertical whitespace character |
 | \w | Word character (ASCII letter, digit or underscore), in English, same as `[a-zA-Z0-9_]` |
-| \W | One character that is not a word character as defined by \w |
+| \W | One character that is not a word character as defined by \w, same as `[^a-zA-Z0-9_]` |
 | \0 | Match a NUL character |
 | \xhh | Match the character with hex value hh |
 | \x{h..h} | Match the character with hex value hh..hh |
