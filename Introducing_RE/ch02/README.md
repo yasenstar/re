@@ -26,13 +26,18 @@
 | \t | Match a horizontal tab character |
 | \v | Match a vertical tab character |
 | \V | Match a character that is not a vertical whitespace character |
-| \w | Word character (ASCII letter, digit or underscore) |
+| \w | Word character (ASCII letter, digit or underscore), in English, same as `[a-zA-Z0-9_]` |
 | \W | One character that is not a word character as defined by \w |
 | \0 | Match a NUL character |
 | \xhh | Match the character with hex value hh |
 | \x{h..h} | Match the character with hex value hh..hh |
 | \uhhhh | Match the character with hex value hhhh |
 | \uhhhhhhhh | Match the character with hex value hhhhhhhh |
+
+## Difference between `\w` and `\D`
+
+- `\w` matches any word character, including letters, digits (numbers) and underscore
+- `\D` matches any non-digit character, including letters, underscore, whitespace, punctuation, quotation marks, forward slashes, and other similar characters
 
 ---
 
