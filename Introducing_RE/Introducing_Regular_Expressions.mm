@@ -3,7 +3,7 @@
 <node TEXT="Introducing RE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1745665608617">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#eeeeeeff">
+<hook NAME="MapStyle" background="#eeeeeeff" zoom="1.7715613">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_grey_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -155,7 +155,7 @@
 <node TEXT="02.07.02 Using Perl to Mark Up Text" POSITION="bottom_or_right" ID="ID_800590568" CREATED="1745669120623" MODIFIED="1745669136215"/>
 </node>
 </node>
-<node TEXT="03. Boundaries" FOLDED="true" POSITION="bottom_or_right" ID="ID_1250175084" CREATED="1745665730171" MODIFIED="1745665820497">
+<node TEXT="03. Boundaries" POSITION="bottom_or_right" ID="ID_1250175084" CREATED="1745665730171" MODIFIED="1745665820497">
 <node TEXT="03.01 The Beginning and End of a Line" ID="ID_271926312" CREATED="1746016325203" MODIFIED="1746016334430"/>
 <node TEXT="03.02 Word and Non-word Boundaries" ID="ID_1220298267" CREATED="1746016334599" MODIFIED="1746016344085"/>
 <node TEXT="03.03 Other Anchors" ID="ID_1825225236" CREATED="1746016344241" MODIFIED="1746016348341"/>
