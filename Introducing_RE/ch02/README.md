@@ -21,7 +21,7 @@
 | \H | Match a character that is not a horizontal whitespace character |
 | \n | Match a newline character |
 | \r | Match a carriage return character |
-| \s | Whitespace character (space, tab, newline, carriage return, vertical tab) |
+| \s | Whitespace character (space, tab, newline, carriage return, vertical tab), same as `[\t\n\x0B\f\r]`|
 | \S | One character that is not a whitespace character as defined by \s |
 | \t | Match a horizontal tab character |
 | \v | Match a vertical tab character |
