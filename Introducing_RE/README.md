@@ -15,6 +15,8 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [RegEx Pal](https://www.regexpal.com/): online Regular Expression editer and validator, from Steven Levithan (Now from Dan's tools)
 - [RegExr.com](https://regexr.com/): from Grant Skinner
 - [Regex Workbench (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=robinbentley.vscode-regex-workbench): from Robin Bentley
+- [RegEx Testing](https://www.regextester.com/)
+- [Regex101](https://regex101.com/)
 
 ## Jump to the Source Code per Sub-Chapter
 
