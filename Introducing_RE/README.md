@@ -18,19 +18,6 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [RegEx Testing](https://www.regextester.com/)
 - [Regex101](https://regex101.com/)
 
-## Jump to the Source Code per Sub-Chapter
-
-| ch01 | ch02 | ch03 | ch04 | ch05 | ch06 | ch07 | ch08 | ch09 | ch10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [01-01](ch01/01-01.md) | [02-01](ch02/02-01.md) | | | | | | | | |
-| [01-02](ch01/01-02.md) | [02-02](ch02/02-02.md) | | | | | | | | |
-| [01-03](ch01/01-03.md) | [02-03](ch02/02-03.md) | | | | | | | | |
-| [01-04](ch01/01-04.md) | | | | | | | | | |
-| [01-05](ch01/01-05.md) | | | | | | | | | |
-| [01-06](ch01/01-06.md) | | | | | | | | | |
-| [01-07](ch01/01-07.md) | | | | | | | | | |
-| [01-08](ch01/01-08.md) | | | | | | | | | |
-
 ## Jump to Chapter's README
 
 - [Chapter 01: What Is a Regular Expression?](ch01/README.md)
@@ -43,6 +30,18 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [Chapter 08: Lookarounds](ch08/README.md)
 - [Chapter 09: Marking Up a Document with HTML](ch09/README.md)
 - [Chapter 10: The end of the Beginning](ch10/README.md)
+## Jump to the Source Code per Sub-Chapter
+
+| ch01 | ch02 | ch03 | ch04 | ch05 | ch06 | ch07 | ch08 | ch09 | ch10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [01-01](ch01/01-01.md) | [02-01](ch02/02-01.md) | | | | | | | | |
+| [01-02](ch01/01-02.md) | [02-02](ch02/02-02.md) | | | | | | | | |
+| [01-03](ch01/01-03.md) | [02-03](ch02/02-03.md) | | | | | | | | |
+| [01-04](ch01/01-04.md) | | | | | | | | | |
+| [01-05](ch01/01-05.md) | | | | | | | | | |
+| [01-06](ch01/01-06.md) | | | | | | | | | |
+| [01-07](ch01/01-07.md) | | | | | | | | | |
+| [01-08](ch01/01-08.md) | | | | | | | | | |
 
 ## My Hard-Copy Book
 
