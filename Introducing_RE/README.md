@@ -40,7 +40,7 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 | [01-01](ch01/01-01.md) | [02-01](ch02/02-01.md) | | | [ascii-graphic.txt](ch05/ascii-graphic.txt) | [schiller1.txt](ch06/schiller1.txt) | | | | |
 | [01-02](ch01/01-02.md) | [02-02](ch02/02-02.md) | | | | [schiller2.txt](ch06/schiller2.txt) | | | | | |
 | [01-03](ch01/01-03.md) | [02-03](ch02/02-03.md) | | | | [ode_to_joy.pdf](ch06/ode_to_joy.pdf) | | | | |
-| [01-04](ch01/01-04.md) | [rime-intro.txt](ch02/rime-intro.txt) | | | | | | | | |
+| [01-04](ch01/01-04.md) | [rime-intro.txt](ch02/rime-intro.txt) | | | | [voltaire.txt](ch06/voltaire.txt) | | | | |
 | [01-05](ch01/01-05.md) | | | | | | | | | |
 | [01-06](ch01/01-06.md) | | | | | | | | | |
 | [01-07](ch01/01-07.md) | | | | | | | | | |

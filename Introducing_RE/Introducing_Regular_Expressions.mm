@@ -3,7 +3,7 @@
 <node TEXT="Introducing RE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1745665608617">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#eeeeeeff" zoom="2.357948">
+<hook NAME="MapStyle" background="#eeeeeeff" zoom="1.1">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_grey_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -166,7 +166,7 @@
 <node TEXT="03.04 Quoting a Group of Characters as Literals" ID="ID_740592816" CREATED="1746016348495" MODIFIED="1746016359529"/>
 <node TEXT="03.05 Adding Tags" ID="ID_1245707718" CREATED="1746016363968" MODIFIED="1746016369587"/>
 </node>
-<node TEXT="04. Alternation, Groups, and Backreferences" POSITION="bottom_or_right" ID="ID_1802989548" CREATED="1745665746123" MODIFIED="1745665823065">
+<node TEXT="04. Alternation, Groups, and Backreferences" FOLDED="true" POSITION="bottom_or_right" ID="ID_1802989548" CREATED="1745665746123" MODIFIED="1745665823065">
 <node TEXT="04.01 Alternation" ID="ID_362479999" CREATED="1746066536800" MODIFIED="1746066540973"/>
 <node TEXT="04.02 Subpatterns" ID="ID_781165432" CREATED="1746066557553" MODIFIED="1746066561835"/>
 <node TEXT="04.03 Capturing Groups and Backreferences" FOLDED="true" ID="ID_1094309855" CREATED="1746066564913" MODIFIED="1746066575051">
@@ -176,12 +176,12 @@
 <node TEXT="04.04.01 Atomic Groups" ID="ID_1599873962" CREATED="1746066624461" MODIFIED="1746066632849"/>
 </node>
 </node>
-<node TEXT="05. Character Classes" POSITION="bottom_or_right" ID="ID_1390601300" CREATED="1745665759826" MODIFIED="1746355401784" VGAP_QUANTITY="3 pt">
+<node TEXT="05. Character Classes" FOLDED="true" POSITION="bottom_or_right" ID="ID_1390601300" CREATED="1745665759826" MODIFIED="1746355401784" VGAP_QUANTITY="3 pt">
 <node TEXT="05.01 Negated Character Classes" ID="ID_546547469" CREATED="1746192506466" MODIFIED="1746192544127"/>
 <node TEXT="05.02 Union and Difference" ID="ID_1249339603" CREATED="1746192544353" MODIFIED="1746355401783"/>
 <node TEXT="05.03 POSIX Character Classes" ID="ID_853931400" CREATED="1746192550088" MODIFIED="1746192560862"/>
 </node>
-<node TEXT="06. Matching Unicode and Other Characters" FOLDED="true" POSITION="bottom_or_right" ID="ID_1505596721" CREATED="1745665764940" MODIFIED="1745665826300">
+<node TEXT="06. Matching Unicode and Other Characters" FOLDED="true" POSITION="bottom_or_right" ID="ID_1505596721" CREATED="1745665764940" MODIFIED="1746426463209" LINK="https://home.unicode.org/">
 <node TEXT="06.01 Matching a Unicode Character" FOLDED="true" ID="ID_58356403" CREATED="1746192572680" MODIFIED="1746192581264">
 <node TEXT="06.01.01 Using vim" ID="ID_22922328" CREATED="1746192581268" MODIFIED="1746192587990"/>
 </node>
@@ -189,7 +189,7 @@
 <node TEXT="06.03 Matching Unicode Character Properties" ID="ID_1164256248" CREATED="1746192599113" MODIFIED="1746192608117"/>
 <node TEXT="06.04 Matching Control Characters" ID="ID_967362380" CREATED="1746192612456" MODIFIED="1746192622316"/>
 </node>
-<node TEXT="07. Quantifiers" POSITION="bottom_or_right" ID="ID_781095449" CREATED="1745665773595" MODIFIED="1745665827530">
+<node TEXT="07. Quantifiers" FOLDED="true" POSITION="bottom_or_right" ID="ID_781095449" CREATED="1745665773595" MODIFIED="1745665827530">
 <node TEXT="07.01 Greedy, Lazy, and Possessive" ID="ID_1518855464" CREATED="1746192628496" MODIFIED="1746192636667"/>
 <node TEXT="07.02 Matching with *, +, and ?" ID="ID_591125436" CREATED="1746192636816" MODIFIED="1746192646497"/>
 <node TEXT="07.03 Matching a Specific Number of Times" ID="ID_1523410969" CREATED="1746192646856" MODIFIED="1746192655234"/>
