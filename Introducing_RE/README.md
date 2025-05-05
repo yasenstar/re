@@ -55,6 +55,10 @@ Arrived at Apr 30, 2025 :satisfied:
 | ![book-front](img/my-introRE-book-front-small.jpg) | ![book-back](img/my-introRE-book-back-small.jpg) |
 | --- | --- |
 
+## Demo & Practice Video Course
+
+[Introducing Regular Expression (RE) by Practicing](https://www.udemy.com/course/introducing-regular-expressions-re-by-practicing/?referralCode=B9DC246B2EC07C67C449), welcome to enroll for learning.
+
 ---
 
 Welcome to hear your opinion and comments, post in Discussion Board please.
