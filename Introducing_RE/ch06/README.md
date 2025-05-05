@@ -1,5 +1,9 @@
 # 06 Matching Unicode and Other Characters
 
+## Unicode Tables
+
+- UnicodePlus: https://unicodeplus.com/
+
 ## Friedrich Schiller's Ode to Joy
 
 [Ode to Joy](schiller2.txt)
