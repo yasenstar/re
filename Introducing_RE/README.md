@@ -18,6 +18,8 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [RegEx Testing](https://www.regextester.com/)
 - [Rubular - a Ruby regular expression editor](https://rubular.com/)
 - [Regex101](https://regex101.com/)
+- [Reggy - the open-source OS X regular expression tester/viewer](http://reggyapp.com/)
+    - [Expresson - Reggy alternative on Windows](https://ultrapico.com/Expresso.htm)
 
 ## Jump to Chapter's README
 
