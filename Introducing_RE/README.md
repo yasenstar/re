@@ -16,6 +16,7 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [RegExr.com](https://regexr.com/): from Grant Skinner
 - [Regex Workbench (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=robinbentley.vscode-regex-workbench): from Robin Bentley
 - [RegEx Testing](https://www.regextester.com/)
+- [Rubular - a Ruby regular expression editor](https://rubular.com/)
 - [Regex101](https://regex101.com/)
 
 ## Jump to Chapter's README
