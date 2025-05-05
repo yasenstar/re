@@ -20,6 +20,7 @@ Author: Michael Fitzgerald (Published by O'REILLY)
 - [Regex101](https://regex101.com/)
 - [Reggy - the open-source OS X regular expression tester/viewer](http://reggyapp.com/)
     - [Expresson - Reggy alternative on Windows](https://ultrapico.com/Expresso.htm)
+- [Regex Hero - the .net Regex tester](https://regexhero.net/tester)
 
 ## Jump to Chapter's README
 
