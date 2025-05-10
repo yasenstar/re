@@ -1,6 +1,6 @@
 # Chapter 8 Lookarounds
 
-![Look-Around](img/look-around.png)
+![Look-Around](./img/look-around.png)
 
 ---
 
